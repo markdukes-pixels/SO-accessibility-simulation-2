@@ -1,7 +1,6 @@
 [SO_accessibility_simulation.py](https://github.com/user-attachments/files/26913970/SO_accessibility_simulation.py)
 # SO-accessibility-simulation-2
 Minimal simulation for Structural Observability accessibility results
-"""
 SO_accessibility_demo.py
 ========================
 Reproducible implementation of the accessibility simulation from:
